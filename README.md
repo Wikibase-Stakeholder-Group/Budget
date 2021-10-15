@@ -1,1 +1,1 @@
-# Budget
+# Wikibase Stakeholder Group Budget
