@@ -1,13 +1,11 @@
-"Date","Position","Rhizome (in USD)","NFDI (in EUR)","Restriction"
-,"CURRENT BALANCE","21200.07",13500,
-,,,,
-2022-04-12,"Rhizome 7% fiscal sponsorhip fee","-339.26",,
-2022-04-12,"TIB → Rhizome","4846.60",-4500,
-2021-12-31,"Rhizome 7% fiscal sponsorhip fee","-353.22",,
-2021-12-31,"TIB → Rhizome","5045.95",-4500,
-"2021-09-16","Rhizome",12000,,"Contractors need to invoice Rhizome, New York, USA."
-"2021-09-16","NFDI4Culture / TIB / TA1",,18000,"Sum need to be spent in 2022 in packages of max EUR 4500 per quarter.
-Contractors need to invoice TIB, Hannover, Germany."
-"2021-09-16","NFDI4Culture / TIB / TA1",,4500,"To be spent in the last quarter of 2021.
-Contractors need to invoice TIB, Hannover, Germany.
-Sum will go to Rhizome if no project to contract is ready by the end of 2021."
+Date,Position,Rhizome (in USD)
+,CURRENT BALANCE,20798.29
+,,
+2022-07-05,"Wikibase Consultancy, RDF mapping extension",-13500
+2022-06-21,Rhizome 7% fiscal sponsorhip fee,-985.98
+2022-06-21,TIB → Rhizome,14084.2
+2022-04-12,Rhizome 7% fiscal sponsorhip fee,-339.26
+2022-04-12,TIB → Rhizome,4846.6
+2021-12-31,Rhizome 7% fiscal sponsorhip fee,-353.22
+2021-12-31,TIB → Rhizome,5045.95
+2021-09-16,Rhizome starting budget,12000
